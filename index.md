@@ -1,8 +1,8 @@
 # Airport Lawyer Tech Recommendations
 
-## Scanning
+## Document Scanning
 
-### With Mobile Devices
+### Mobile Apps
 
 You can use mobile phone apps to get surprisingly good document scans. The recommended app is **Office Lens** by Microsoft.
 
